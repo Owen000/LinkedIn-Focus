@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/grey-software/LinkedIn-Focus" target="_blank">
-    <img alt="LinkedIn-Focus icon" width="100" src="https://raw.githubusercontent.com/grey-software/LinkedIn-Focus/master/src/icon.png">
+    <img alt="LinkedIn-Focus icon" width="100" src="https://github.com/Owen000/LinkedIn-Focus/raw/master/src/LinkedInFocusBanner.png">
   </a>
 </p>
 
