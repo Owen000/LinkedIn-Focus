@@ -21,3 +21,7 @@ Use [this guide](https://developer.chrome.com/extensions/getstarted) to load the
 
 ### After 
 ![After](after.png)
+
+<div align="center">
+    <img alt="GreySoftware icon" width="100" src="https://github.com/grey-software/LinkedIn-Focus/blob/master/src/logo.png">
+</div>
