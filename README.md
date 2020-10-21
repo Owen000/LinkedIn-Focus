@@ -4,11 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/grey-software/LinkedIn-Focus" target="_blank">
-    <img alt="GreySoftware icon" width="100" src="https://raw.githubusercontent.com/grey-software/LinkedIn-Focus/master/src/logo.png">
-  </a>
-</p>
 
 
 # LinkedInFocus
