@@ -1,6 +1,6 @@
-<p align="center">
-    <img alt="LinkedIn-Focus icon" width="500" src="https://github.com/Owen000/LinkedIn-Focus/raw/master/src/LinkedInFocusBanner.png">
-</p>
+<div align="center">
+    <img alt="LinkedIn-Focus icon" width="500" src="https://github.com/grey-software/LinkedIn-Focus/raw/master/src/icon.png">
+</div>
 
 
 
